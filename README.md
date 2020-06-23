@@ -19,4 +19,4 @@
 
 编译器：idle 
 
-第三方库：easygui库,jieba库,lxml库,selenium库,traceback库，time库，re库,webdriver_manager.chrom库，wordcloud库。
+第三方库：easygui库,jieba库,lxml库,selenium库,traceback库,time库,re库,webdriver_manager.chrom库，wordcloud库。
